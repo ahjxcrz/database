@@ -83,6 +83,7 @@ class SQL_DB:
             apyReward DECIMAL(20,6),
             totalIssuance DECIMAL(20,6),
             holdersList TEXT,
+            liq TEXT,
             annualized_income DECIMAL(20,6),
             bifrost_staking_7day_apy DECIMAL(20,6),
             created DATETIME,
